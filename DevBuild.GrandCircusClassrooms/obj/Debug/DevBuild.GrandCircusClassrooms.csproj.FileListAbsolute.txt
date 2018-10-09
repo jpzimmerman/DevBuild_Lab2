@@ -1,0 +1,7 @@
+C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\bin\Debug\DevBuild.GrandCircusClassrooms.exe.config
+C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\bin\Debug\DevBuild.GrandCircusClassrooms.exe
+C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\bin\Debug\DevBuild.GrandCircusClassrooms.pdb
+C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\obj\Debug\DevBuild.GrandCircusClassrooms.csprojAssemblyReference.cache
+C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\obj\Debug\DevBuild.GrandCircusClassrooms.csproj.CoreCompileInputs.cache
+C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\obj\Debug\DevBuild.GrandCircusClassrooms.exe
+C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\obj\Debug\DevBuild.GrandCircusClassrooms.pdb
