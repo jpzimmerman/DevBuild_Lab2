@@ -11,7 +11,7 @@ namespace DevBuild.GrandCircusClassrooms
         static void Main(string[] args)
         {
             RectangularRoom roomObject;
-            double tmpLength, tmpWidth;
+            double tmpLength, tmpWidth, tmpHeight;
             string userResponse = "";
             bool userValidResponse = false;
             bool userExit = false;
@@ -24,20 +24,31 @@ namespace DevBuild.GrandCircusClassrooms
             {
                 roomObject = new RectangularRoom();
                 userValidResponse = false;
-                Console.Write("Enter Room Length, in feet: ");
+                Console.Write(StringTable.EnterRoomLengthMessage);
                 if (double.TryParse(Console.ReadLine(), out tmpLength))
                 {
                     roomObject.Length = tmpLength;
                 }
 
-                Console.Write("Enter Room Width, in feet: ");
+                Console.Write(StringTable.EnterRoomWidthMessage);
                 if (double.TryParse(Console.ReadLine(), out tmpWidth))
                 {
                     roomObject.Width = tmpWidth;
                 }
 
+                Console.Write(StringTable.EnterRoomHeightMessage);
+                if (double.TryParse(Console.ReadLine(), out tmpHeight))
+                {
+                    roomObject.Height = tmpHeight;
+                }
+
+                if (tmpLength < 0 || tmpWidth < 0 || tmpHeight < 0)
+                {
+                    Console.WriteLine("Since dimensions can't be negative, assuming absolute values.");
+                }               
                 Console.WriteLine("\nArea is {0} sq. ft.", roomObject.Area);
-                Console.WriteLine("Perimeter = {0} ft.\n", roomObject.Perimeter);
+                Console.WriteLine("Perimeter is {0} ft.", roomObject.Perimeter);
+                Console.WriteLine("Volume is {0} cu. ft.\n", roomObject.Volume);
 
                 while (!userValidResponse)
                 {

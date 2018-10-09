@@ -5,3 +5,5 @@ C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCi
 C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\obj\Debug\DevBuild.GrandCircusClassrooms.csproj.CoreCompileInputs.cache
 C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\obj\Debug\DevBuild.GrandCircusClassrooms.exe
 C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\obj\Debug\DevBuild.GrandCircusClassrooms.pdb
+C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\obj\Debug\DevBuild.GrandCircusClassrooms.StringTable.resources
+C:\Users\JZimmerman\source\repos\DevBuild.GrandCircusClassrooms\DevBuild.GrandCircusClassrooms\obj\Debug\DevBuild.GrandCircusClassrooms.csproj.GenerateResource.cache
